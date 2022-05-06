@@ -51,3 +51,4 @@ document.querySelector(".search-bar").addEventListener("keyup", function (event)
 })
 
 weather.fetchLongLat('Santa Clara');
+//ssl
