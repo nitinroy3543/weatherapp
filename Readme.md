@@ -7,4 +7,6 @@ Features:
 4. Then it uses the lat and long to get the weather data using the open weather weather api
 5. It also fetches the icon relevant to the city and weather to show.
 
-You can see this app on 
+You can see this app on https://nitinroy3543.github.io/weatherapp/
+
+
