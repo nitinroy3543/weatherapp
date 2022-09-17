@@ -1,4 +1,4 @@
-This is a very simple multi-platform weather app built using CSS, HTML and Javascript which uses Openweather API to fetch weather data of user given city to show the most recent weather data. 
+This is a basic multi-platform weather app built using CSS, HTML and Javascript which uses Openweather API to fetch weather data of user given city to show the most recent weather data. 
 
 Features: 
 1. It uses google fonts using googleapis
